@@ -1,5 +1,5 @@
 {
-  "name": "Pyrogram And Telethon String Session Generator",
+  "name": "ᒪ𓆩 𝐃ᴇᴠɪʟ ꭙ 𝐒ᴛʀɪɴɢ ᐅᒣ",
   "description": "Generate Pyrogram And Telethon String Session Easley",
   "logo": "https://telegra.ph/file/27bfcfbb9d72fb3f3a1ca.jpg",
   "keywords": [
@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
       "required": false,
-      "value": "https://t.me/Alexa_Help"
+      "value": "https://t.me/devilking_help"
     }
   }
 }
