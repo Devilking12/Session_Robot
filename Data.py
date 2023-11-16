@@ -17,14 +17,14 @@ class Data:
         generate_single_button,
         [
             InlineKeyboardButton(
-                "✨ ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs ᴀɴᴅ sᴛᴀᴛᴜs ✨", url="https://t.me/Alexa_BotUpdates/77"
+                "✨ ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs ᴀɴᴅ sᴛᴀᴛᴜs ✨", url="https://t.me/devilking_help"
             )
         ],
         [
             InlineKeyboardButton("🤔 ʜᴏᴡ ᴛᴏ ᴜsᴇ 🤔", callback_data="help"),
             InlineKeyboardButton("🎪 ᴀʙᴏᴜᴛ 🎪", callback_data="about"),
         ],
-        [InlineKeyboardButton("💌 ᴏᴛʜᴇʀ ʙᴏᴛs 💌", url="https://t.me/Alexa_Help")],
+        [InlineKeyboardButton("💌 my group 💌", url="https://t.me/+n-FgsomCT9Q0NTk1")],
     ]
 
     START = """
@@ -35,7 +35,7 @@ class Data:
 2) ᴅᴇʟᴇᴛᴇ ᴛʜɪs ᴄʜᴀᴛ
 sᴛɪʟʟ ʀᴇᴀᴅɪɴɢ?
 ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ. ᴜsᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ !
-ʙʏ @Shayri_Music_Lovers ᴀɴᴅ @Alexa_BotUpdates
+ʙʏ @Devil_ki_masoomiyat ᴀɴᴅ @devilking_help
     """
 
     HELP = """
@@ -54,7 +54,7 @@ sᴛɪʟʟ ʀᴇᴀᴅɪɴɢ?
     ABOUT = """
 **ᴀʙᴏᴜᴛ ᴛʜɪs ʙᴏᴛ** 
 
-ᴀ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙʏ @Alexa_BotUpdates
+ᴀ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙʏ @devilking_help
 
 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/TheTeamAlexa/Session_Robot)
 ғʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
